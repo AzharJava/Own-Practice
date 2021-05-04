@@ -16,3 +16,6 @@ public class variableExample {
 	}
 
 }
+
+//OUTPUT
+//Age: 15
